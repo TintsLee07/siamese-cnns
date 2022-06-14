@@ -1,7 +1,7 @@
 # Facial Recognition Through Siamese Convolutional Neural Networks
 ## This repo contains a research paper and code used to generate results on Facial Recognition Through Siamese CNNs.
 # Abstract
-## Facial images offer a reliable means of physical biometric identification. However, image modularities,
+Facial images offer a reliable means of physical biometric identification. However, image modularities,
 geometric distortions, partial deformations, and obstructions could easily lead to false positives or false
 negatives. This paper explores the viability of a Patch-based Siamese CNN for region-specific extraction in
 situations described above. The idea is to create a facial recognition model that will still perform even when
